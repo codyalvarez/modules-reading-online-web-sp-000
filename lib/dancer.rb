@@ -1,4 +1,4 @@
-class Dancer
+class Dancer::Dance
   include Dance
 
   attr_accessor :name
