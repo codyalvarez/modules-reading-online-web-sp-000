@@ -1,4 +1,5 @@
 class Kid
+  extend MetaDancing
   include Dance
 
   attr_accessor :name
