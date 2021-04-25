@@ -1,2 +1,2 @@
-class Dance 
+class Dance
 end
